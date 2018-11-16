@@ -1,0 +1,41 @@
+.outsidebox {
+  width: 300px;
+  height: 490px;
+  background-color: khaki;
+  border: 1px solid lightgreen;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  box-shadow: 4px 4px lightgrey;
+}
+
+.animal-info-box {
+  width: 288px;
+  height: 205px;
+  margin-top: 10px;
+  border: 1px solid lightgreen;
+  padding-left: 7px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+}
+
+#interesting-fact {
+  font-style: italic;
+  font-size: 11px;
+}
+
+#animal-details {
+  font-size: 11px;
+}
+
+#listing-of-specifications {
+  padding-left: 3px;
+  font-size: 11px;
+  list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}

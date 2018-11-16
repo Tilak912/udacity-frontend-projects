@@ -1,0 +1,36 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.div1 {
+  text-align: right;
+}
+
+.name {
+  font: bold 50px "Comic Sans MS";
+}
+
+.position {
+  font: bold 20px "Times New Roman";
+  color: #696969;
+}
+
+.horizontal-line {
+  height: 4px;
+  background-color: #556b2f;
+}
+
+.div2 {
+  text-align: center;
+}
+
+.achievements {
+  text-align: center;
+  font: bold 25px sans-serif;
+}
+
+.links {
+  font-size: 10px;
+}
